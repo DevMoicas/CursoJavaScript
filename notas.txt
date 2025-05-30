@@ -1,0 +1,23 @@
+HISTORIA DE JavaScript
+
+JavaScript es un lenguaje el cual se creo en el año de 1995, es usado para crear sitios web,
+es por ello que se le conoce como el lenguaje de la web ya que este fue creado para mostrarlo en el
+frontal de una web, esto porque la web en esos años se empezaba a consumir , creando con HTML y CSS sin embargo
+se necesitaba algo para la logica.
+
+JavaScript fue un lenguaje que se creo en 10 dias, anteriormente ese lenguaje no inicio llamandose asi, inicialmnete se llamaba Moka
+
+Java es lenguaje compilado y JavaScript es un lenguaje interprado, un lenguaje compilado para poder ejecutarse debe compilarse , compilarse es que 
+se revisa todo el codigo escrito, se transforma en lenguaje de maquina y de esta manera el compilador es capaz de detectar cosas que no sean correctas, despues 
+de eso se ejecuta, sin embargo JavaScript tiene un interprete, quiere decir que no compila el codigo y este se compila a medida que se va necesitando.
+
+Vanilla es cuando se usa un lenguaje de programación puro, sin frameworks, en este caso vanilla javascript es javascript puro.
+
+Declarando una variable con var podemos acceder a ella antes de haberla inicializado, en cambio declarandola con let NO PODEMOS USARLA antes de haberla declarando
+y actualmente ya no se debe usar VAR para declarar variables debido a que da muchos errores
+
+Declarar variables con let o var nos permite casi lo mismo, ambas permiten inicializar variable, declararle valor pero podemos cambiar ese valor cuando nosotros queramos
+
+Los tipos de datos primitivos son aquellos en los que se fundamenta una interaccion con el lenguaje, datos basicos e inmutables que representan un solo valor, estos NO SON OBJETOS y son basicos 
+
+Los tipos de datos no primitivos son aquellos 
