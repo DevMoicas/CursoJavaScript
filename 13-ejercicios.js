@@ -26,3 +26,5 @@ console.log(animals)
 //10. Crea un array, transformalo a un SET y almacenalo en un MAP.
 
 //prueba de cambios
+
+//cambios desde la laptop test
