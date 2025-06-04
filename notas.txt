@@ -20,4 +20,6 @@ Declarar variables con let o var nos permite casi lo mismo, ambas permiten inici
 
 Los tipos de datos primitivos son aquellos en los que se fundamenta una interaccion con el lenguaje, datos basicos e inmutables que representan un solo valor, estos NO SON OBJETOS y son basicos 
 
-Los tipos de datos no primitivos son aquellos 
+Los tipos de datos no primitivos son aquellos basicos del lenguaje.
+
+Las estructuras de datos nos sirven para guardar un conjunto de datos, no solo uno
