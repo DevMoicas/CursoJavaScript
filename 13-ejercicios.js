@@ -24,3 +24,5 @@ console.log(animals)
 //9. Añaade al mapa una clave con un array como que almacene los meses de verano
 
 //10. Crea un array, transformalo a un SET y almacenalo en un MAP.
+
+//prueba de cambios
