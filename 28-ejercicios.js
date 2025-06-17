@@ -1,3 +1,4 @@
+console.time("tiempo")
 //1. Captura una excepcion utilizando try-catch
 let persona = {
     name: "Moises",
@@ -171,3 +172,5 @@ for(i = 1; i <= 10; i++) {
         console.log(`Se ha producido un error, intento numero ${i}`, error)
     }
 }
+
+console.timeEnd("tiempo")
